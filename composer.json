@@ -1,0 +1,15 @@
+{
+    "name": "zhao/dowson",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Zhao\\Dowson\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zhao"
+        }
+    ],
+    "require": {}
+}
